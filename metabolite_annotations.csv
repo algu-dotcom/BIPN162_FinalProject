@@ -1,0 +1,1114 @@
+﻿COMP_IDstr,BIOCHEMICAL,SUPER_PATHWAY,SUB_PATHWAY
+M48762,"1,2,3-benzenetriol sulfate (2)",Xenobiotics,Chemical
+M52603,"1,2-dilinoleoyl-GPC (18:2/18:2)",Lipid,Phospholipid Metabolism
+M19130,"1,2-dipalmitoyl-GPC (16:0/16:0)",Lipid,Phospholipid Metabolism
+M19132,"1,2-distearoyl-GPC (18:0/18:0)",Lipid,Phospholipid Metabolism
+M34404,"1,3,7-trimethylurate",Xenobiotics,Xanthine Metabolism
+M32391,"1,3-dimethylurate",Xenobiotics,Xanthine Metabolism
+M20675,"1,5-anhydroglucitol (1,5-AG)",Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"
+M34400,"1,7-dimethylurate",Xenobiotics,Xanthine Metabolism
+M44621,1-(1-enyl-oleoyl)-GPE (P-18:1)*,Lipid,Lysoplasmalogen
+M52689,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*,Lipid,Plasmalogen
+M52673,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)*,Lipid,Plasmalogen
+M52682,1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*,Lipid,Plasmalogen
+M52677,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*,Lipid,Plasmalogen
+M52478,1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*,Lipid,Plasmalogen
+M52477,1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*,Lipid,Plasmalogen
+M52713,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*,Lipid,Plasmalogen
+M52716,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*,Lipid,Plasmalogen
+M52474,1-(1-enyl-palmitoyl)-GPC (P-16:0)*,Lipid,Lysoplasmalogen
+M39270,1-(1-enyl-palmitoyl)-GPE (P-16:0)*,Lipid,Lysoplasmalogen
+M52475,1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*,Lipid,Plasmalogen
+M52748,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*,Lipid,Plasmalogen
+M52614,1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1),Lipid,Plasmalogen
+M39271,1-(1-enyl-stearoyl)-GPE (P-18:0)*,Lipid,Lysoplasmalogen
+M46325,1-arachidonoyl-GPA (20:4),Lipid,Lysolipid
+M33228,1-arachidonoyl-GPC (20:4n6)*,Lipid,Lysolipid
+M35186,1-arachidonoyl-GPE (20:4n6)*,Lipid,Lysolipid
+M34214,1-arachidonoyl-GPI (20:4)*,Lipid,Lysolipid
+M52401,1-arachidonylglycerol (20:4),Lipid,Monoacylglycerol
+M48341,1-dihomo-linolenylglycerol (20:3),Lipid,Monoacylglycerol
+M49617,1-lignoceroyl-GPC (24:0),Lipid,Lysolipid
+M45951,1-linolenoyl-GPC (18:3)*,Lipid,Lysolipid
+M52710,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*,Lipid,Phospholipid Metabolism
+M52690,1-linoleoyl-GPA (18:2)*,Lipid,Lysolipid
+M34419,1-linoleoyl-GPC (18:2),Lipid,Lysolipid
+M36600,1-linoleoyl-GPE (18:2)*,Lipid,Lysolipid
+M36594,1-linoleoyl-GPI (18:2)*,Lipid,Lysolipid
+M27447,1-linoleoylglycerol (18:2),Lipid,Monoacylglycerol
+M48114,1-methylguanidine,Amino Acid,Guanidino and Acetamido Metabolism
+M30460,1-methylhistidine,Amino Acid,Histidine Metabolism
+M32350,1-methylimidazoleacetate,Amino Acid,Histidine Metabolism
+M27665,1-methylnicotinamide,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+M34395,1-methylurate,Xenobiotics,Xanthine Metabolism
+M34389,1-methylxanthine,Xenobiotics,Xanthine Metabolism
+M46798,1-oleoyl-2-linoleoyl-glycerol (18:1/18:2),Lipid,Diacylglycerol
+M52453,1-oleoyl-2-linoleoyl-GPC (18:1/18:2)*,Lipid,Phospholipid Metabolism
+M52687,1-oleoyl-2-linoleoyl-GPE (18:1/18:2)*,Lipid,Phospholipid Metabolism
+M46799,1-oleoyl-3-linoleoyl-glycerol (18:1/18:2),Lipid,Diacylglycerol
+M48258,1-oleoyl-GPC (18:1),Lipid,Lysolipid
+M35628,1-oleoyl-GPE (18:1),Lipid,Lysolipid
+M36602,1-oleoyl-GPI (18:1)*,Lipid,Lysolipid
+M21184,1-oleoylglycerol (18:1),Lipid,Monoacylglycerol
+M52683,1-palmitoleoyl-2-linoleoyl-GPC (16:1/18:2)*,Lipid,Phospholipid Metabolism
+M52632,1-palmitoleoyl-2-oleoyl-glycerol (16:1/18:1)*,Lipid,Diacylglycerol
+M52631,1-palmitoleoyl-3-oleoyl-glycerol (16:1/18:1)*,Lipid,Diacylglycerol
+M33230,1-palmitoleoyl-GPC (16:1)*,Lipid,Lysolipid
+M52431,1-palmitoleoylglycerol (16:1)*,Lipid,Monoacylglycerol
+M52462,1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4),Lipid,Phospholipid Metabolism
+M52464,1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*,Lipid,Phospholipid Metabolism
+M52684,1-palmitoyl-2-linolenoyl-GPC (16:0/18:3)*,Lipid,Phospholipid Metabolism
+M52633,1-palmitoyl-2-linoleoyl-glycerol (16:0/18:2)*,Lipid,Diacylglycerol
+M42446,1-palmitoyl-2-linoleoyl-GPC (16:0/18:2),Lipid,Phospholipid Metabolism
+M42449,1-palmitoyl-2-linoleoyl-GPE (16:0/18:2),Lipid,Phospholipid Metabolism
+M52461,1-palmitoyl-2-oleoyl-GPC (16:0/18:1),Lipid,Phospholipid Metabolism
+M19263,1-palmitoyl-2-oleoyl-GPE (16:0/18:1),Lipid,Phospholipid Metabolism
+M52470,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*,Lipid,Phospholipid Metabolism
+M52616,1-palmitoyl-2-stearoyl-GPC (16:0/18:0),Lipid,Phospholipid Metabolism
+M52634,1-palmitoyl-3-linoleoyl-glycerol (16:0/18:2)*,Lipid,Diacylglycerol
+M34428,1-palmitoyl-GPA (16:0),Lipid,Lysolipid
+M33955,1-palmitoyl-GPC (16:0),Lipid,Lysolipid
+M35631,1-palmitoyl-GPE (16:0),Lipid,Lysolipid
+M45970,1-palmitoyl-GPG (16:0)*,Lipid,Lysolipid
+M35305,1-palmitoyl-GPI (16:0)*,Lipid,Lysolipid
+M21127,1-palmitoylglycerol (16:0),Lipid,Monoacylglycerol
+M42450,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4),Lipid,Phospholipid Metabolism
+M52447,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4),Lipid,Phospholipid Metabolism
+M52449,1-stearoyl-2-arachidonoyl-GPI (18:0/20:4),Lipid,Phospholipid Metabolism
+M52235,1-stearoyl-2-arachidonoyl-GPS (18:0/20:4),Lipid,Phosphatidylserine (PS)
+M52452,1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*,Lipid,Phospholipid Metabolism
+M52446,1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*,Lipid,Phospholipid Metabolism
+M52438,1-stearoyl-2-oleoyl-GPC (18:0/18:1),Lipid,Phospholipid Metabolism
+M42448,1-stearoyl-2-oleoyl-GPE (18:0/18:1),Lipid,Phospholipid Metabolism
+M33961,1-stearoyl-GPC (18:0),Lipid,Lysolipid
+M42398,1-stearoyl-GPE (18:0),Lipid,Lysolipid
+M19324,1-stearoyl-GPI (18:0),Lipid,Lysolipid
+M33971,10-heptadecenoate (17:1n7),Lipid,Long Chain Fatty Acid
+M33972,10-nonadecenoate (19:1n9),Lipid,Long Chain Fatty Acid
+M32497,10-undecenoate (11:1n1),Lipid,Medium Chain Fatty Acid
+M38395,"12,13-DiHOME",Lipid,"Fatty Acid, Dihydroxy"
+M37752,13-HODE + 9-HODE,Lipid,"Fatty Acid, Monohydroxy"
+M38768,15-methylpalmitate,Lipid,"Fatty Acid, Branched"
+M39609,16-hydroxypalmitate,Lipid,"Fatty Acid, Monohydroxy"
+M38168,16a-hydroxy DHEA 3-sulfate,Lipid,Steroid
+M38296,17-methylstearate,Lipid,"Fatty Acid, Branched"
+M37482,17alpha-hydroxypregnenolone sulfate,Lipid,Steroid
+M01412,2'-deoxyuridine,Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+M38276,"2,3-dihydroxyisovalerate",Xenobiotics,Food Component/Plant
+M15664,"2,3-diphosphoglycerate",Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"
+M48580,2-acetamidophenol sulfate,Xenobiotics,Drug
+M06146,2-aminoadipate,Amino Acid,Lysine Metabolism
+M42374,2-aminobutyrate,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M43761,2-aminoheptanoate,Lipid,"Fatty Acid, Amino"
+M43343,2-aminooctanoate,Lipid,"Fatty Acid, Amino"
+M43266,2-aminophenol sulfate,Xenobiotics,Chemical
+M36847,2-ethylphenylsulfate,Xenobiotics,Benzoate Metabolism
+M36746,2-hydroxy-3-methylvalerate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M33173,2-hydroxyacetaminophen sulfate*,Xenobiotics,Drug
+M52281,2-hydroxybutyrate/2-hydroxyisobutyrate,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M42489,2-hydroxydecanoate,Lipid,"Fatty Acid, Monohydroxy"
+M37253,2-hydroxyglutarate,Lipid,"Fatty Acid, Dicarboxylate"
+M18281,2-hydroxyhippurate (salicylurate),Xenobiotics,Benzoate Metabolism
+M43330,2-hydroxyibuprofen,Xenobiotics,Drug
+M22036,2-hydroxyoctanoate,Lipid,"Fatty Acid, Monohydroxy"
+M35675,2-hydroxypalmitate,Lipid,"Fatty Acid, Monohydroxy"
+M01432,2-hydroxyphenylacetate,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M17945,2-hydroxystearate,Lipid,"Fatty Acid, Monohydroxy"
+M15667,2-isopropylmalate,Xenobiotics,Food Component/Plant
+M32506,2-linoleoylglycerol (18:2),Lipid,Monoacylglycerol
+M33161,2-methoxyacetaminophen glucuronide*,Xenobiotics,Drug
+M47031,2-methoxyacetaminophen sulfate*,Xenobiotics,Drug
+M48445,2-methoxyresorcinol sulfate,Xenobiotics,Chemical
+M45095,2-methylbutyrylcarnitine (C5),Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M31928,2-methylbutyrylglycine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M34383,2-myristoylglycerol (14:0),Lipid,Monoacylglycerol
+M47118,2-palmitoleoyl-GPC (16:1)*,Lipid,Lysolipid
+M52432,2-palmitoleoylglycerol (16:1)*,Lipid,Monoacylglycerol
+M35253,2-palmitoyl-GPC (16:0)*,Lipid,Lysolipid
+M33419,2-palmitoylglycerol (16:0),Lipid,Monoacylglycerol
+M43400,2-piperidinone,Xenobiotics,Food Component/Plant
+M41220,2-stearoyl-GPE (18:0)*,Lipid,Lysolipid
+M46115,21-hydroxypregnenolone disulfate,Lipid,Steroid
+M37174,21-hydroxypregnenolone monosulfate (1),Lipid,Steroid
+M53026,"3,4-methyleneheptanoate",Xenobiotics,Food Component/Plant
+M34399,"3,7-dimethylurate",Xenobiotics,Xanthine Metabolism
+M35635,3-(3-hydroxyphenyl)propionate,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M45415,3-(3-hydroxyphenyl)propionate sulfate,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M32197,3-(4-hydroxyphenyl)lactate,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M39587,3-(4-hydroxyphenyl)propionate,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M34365,3-(cystein-S-yl)acetaminophen*,Xenobiotics,Drug
+M45721,3-(N-acetyl-L-cystein-S-yl) acetaminophen,Xenobiotics,Drug
+M01566,3-aminoisobutyrate,Nucleotide,"Pyrimidine Metabolism, Thymine containing"
+M31787,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF),Lipid,"Fatty Acid, Dicarboxylate"
+M32397,3-hydroxy-2-ethylpropionate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M00531,3-hydroxy-3-methylglutarate,Lipid,Mevalonate Metabolism
+M00542,3-hydroxybutyrate (BHBA),Lipid,Ketone Bodies
+M43264,3-hydroxybutyrylcarnitine (1),Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M52984,3-hydroxybutyrylcarnitine (2),Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M43470,3-hydroxycotinine glucuronide,Xenobiotics,Tobacco Metabolite
+M22053,3-hydroxydecanoate,Lipid,"Fatty Acid, Monohydroxy"
+M53230,3-hydroxyhexanoate,Lipid,"Fatty Acid, Monohydroxy"
+M39600,3-hydroxyhippurate,Xenobiotics,Benzoate Metabolism
+M01549,3-hydroxyisobutyrate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M32457,3-hydroxylaurate,Lipid,"Fatty Acid, Monohydroxy"
+M21158,3-hydroxymyristate,Lipid,"Fatty Acid, Monohydroxy"
+M22001,3-hydroxyoctanoate,Lipid,"Fatty Acid, Monohydroxy"
+M48448,3-hydroxypyridine sulfate,Xenobiotics,Chemical
+M27672,3-indoxyl sulfate,Amino Acid,Tryptophan Metabolism
+M48763,3-methoxycatechol sulfate (1),Xenobiotics,Benzoate Metabolism
+M44618,3-methoxytyramine sulfate,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M12017,3-methoxytyrosine,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M46165,3-methyl catechol sulfate (1),Xenobiotics,Benzoate Metabolism
+M44526,3-methyl-2-oxobutyrate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M15676,3-methyl-2-oxovalerate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M36749,3-methyladipate,Lipid,"Fatty Acid, Dicarboxylate"
+M38667,3-methylglutaconate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M46548,3-methylglutarylcarnitine (2),Amino Acid,Lysine Metabolism
+M15677,3-methylhistidine,Amino Acid,Histidine Metabolism
+M32445,3-methylxanthine,Xenobiotics,Xanthine Metabolism
+M15749,3-phenylpropionate (hydrocinnamate),Amino Acid,Phenylalanine and Tyrosine Metabolism
+M01414,3-phosphoglycerate,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"
+M03155,3-ureidopropionate,Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+M43507,3b-hydroxy-5-cholenoic acid,Lipid,Secondary Bile Acid Metabolism
+M01558,4-acetamidobutanoate,Amino Acid,Polyamine Metabolism
+M12032,4-acetamidophenol,Xenobiotics,Drug
+M15736,4-acetamidophenylglucuronide,Xenobiotics,Drug
+M37475,4-acetaminophen sulfate,Xenobiotics,Drug
+M44620,4-acetylphenol sulfate,Xenobiotics,Drug
+M37181,4-allylphenol sulfate,Xenobiotics,Food Component/Plant
+M38106,4-aminophenol,Xenobiotics,Drug
+M37207,"4-androsten-3alpha,17alpha-diol monosulfate (2)",Lipid,Steroid
+M37209,"4-androsten-3alpha,17alpha-diol monosulfate (3)",Lipid,Steroid
+M37202,"4-androsten-3beta,17beta-diol disulfate (1)",Lipid,Steroid
+M37203,"4-androsten-3beta,17beta-diol disulfate (2)",Lipid,Steroid
+M37211,"4-androsten-3beta,17beta-diol monosulfate (1)",Lipid,Steroid
+M37210,"4-androsten-3beta,17beta-diol monosulfate (2)",Lipid,Steroid
+M36099,4-ethylphenylsulfate,Xenobiotics,Benzoate Metabolism
+M15681,4-guanidinobutanoate,Amino Acid,Guanidino and Acetamido Metabolism
+M48441,4-hydroxychlorothalonil,Xenobiotics,Chemical
+M37445,4-hydroxycoumarin,Xenobiotics,Drug
+M35527,4-hydroxyhippurate,Xenobiotics,Benzoate Metabolism
+M52932,4-hydroxyphenylacetatoylcarnitine,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M01669,4-hydroxyphenylpyruvate,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M32349,4-imidazoleacetate,Amino Acid,Histidine Metabolism
+M22116,4-methyl-2-oxopentanoate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M46146,4-methylcatechol sulfate,Xenobiotics,Benzoate Metabolism
+M48442,4-vinylguaiacol sulfate,Xenobiotics,Food Component/Plant
+M36098,4-vinylphenol sulfate,Xenobiotics,Benzoate Metabolism
+M01418,"5,6-dihydrothymine",Nucleotide,"Pyrimidine Metabolism, Thymine containing"
+M34424,5-acetylamino-6-amino-3-methyluracil,Xenobiotics,Xanthine Metabolism
+M34401,5-acetylamino-6-formylamino-3-methyluracil,Xenobiotics,Xanthine Metabolism
+M53242,5-bromotryptophan,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M33968,5-dodecenoate (12:1n7),Lipid,Medium Chain Fatty Acid
+M31938,5-hydroxyhexanoate,Lipid,"Fatty Acid, Monohydroxy"
+M00437,5-hydroxyindoleacetate,Amino Acid,Tryptophan Metabolism
+M15685,5-hydroxylysine,Amino Acid,Lysine Metabolism
+M01419,5-methylthioadenosine (MTA),Amino Acid,Polyamine Metabolism
+M35136,5-methyluridine (ribothymidine),Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+M01494,5-oxoproline,Amino Acid,Glutathione Metabolism
+M47132,"5alpha-androstan-3alpha, 17beta-diol-17-glucosiduronate",Lipid,Steroid
+M37182,"5alpha-androstan-3alpha,17alpha-diol disulfate",Lipid,Steroid
+M37183,"5alpha-androstan-3alpha,17alpha-diol monosulfate",Lipid,Steroid
+M37184,"5alpha-androstan-3alpha,17beta-diol disulfate",Lipid,Steroid
+M37186,"5alpha-androstan-3alpha,17beta-diol monosulfate (1)",Lipid,Steroid
+M37185,"5alpha-androstan-3alpha,17beta-diol monosulfate (2)",Lipid,Steroid
+M37187,"5alpha-androstan-3beta,17alpha-diol disulfate",Lipid,Steroid
+M37190,"5alpha-androstan-3beta,17beta-diol disulfate",Lipid,Steroid
+M37192,"5alpha-androstan-3beta,17beta-diol monosulfate (2)",Lipid,Steroid
+M46172,"5alpha-pregnan-3(alpha or beta),20beta-diol disulfate",Lipid,Steroid
+M37198,"5alpha-pregnan-3beta,20alpha-diol disulfate",Lipid,Steroid
+M37200,"5alpha-pregnan-3beta,20alpha-diol monosulfate (2)",Lipid,Steroid
+M37196,"5alpha-pregnan-3beta,20beta-diol monosulfate (1)",Lipid,Steroid
+M48698,6-hydroxyindole sulfate,Xenobiotics,Chemical
+M43231,6-oxopiperidine-2-carboxylic acid,Amino Acid,Lysine Metabolism
+M36776,7-alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca),Lipid,Sterol
+M43830,7-ketolithocholate,Lipid,Secondary Bile Acid Metabolism
+M35114,7-methylguanine,Nucleotide,"Purine Metabolism, Guanine containing"
+M39598,7-methylurate,Xenobiotics,Xanthine Metabolism
+M34390,7-methylxanthine,Xenobiotics,Xanthine Metabolism
+M38399,"9,10-DiHOME",Lipid,"Fatty Acid, Dihydroxy"
+M48569,acesulfame,Xenobiotics,Food Component/Plant
+M33963,acetoacetate,Lipid,Ketone Bodies
+M32198,acetylcarnitine,Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M43258,acisoga,Amino Acid,Polyamine Metabolism
+M46173,aconitate [cis or trans],Energy,TCA Cycle
+M00554,adenine,Nucleotide,"Purine Metabolism, Adenine containing"
+M00555,adenosine,Nucleotide,"Purine Metabolism, Adenine containing"
+M02831,"adenosine 3',5'-cyclic monophosphate (cAMP)",Nucleotide,"Purine Metabolism, Adenine containing"
+M03108,adenosine 5'-diphosphate (ADP),Nucleotide,"Purine Metabolism, Adenine containing"
+M00558,adenosine 5'-diphosphoribose (ADP-ribose),Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+M32342,adenosine 5'-monophosphate (AMP),Nucleotide,"Purine Metabolism, Adenine containing"
+M21134,adipate,Lipid,"Fatty Acid, Dicarboxylate"
+M52988,adipoylcarnitine,Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M32980,adrenate (22:4n6),Lipid,Polyunsaturated Fatty Acid (n3 and n6)
+M01126,alanine,Amino Acid,Alanine and Aspartate Metabolism
+M01107,allantoin,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing"
+M41494,alliin,Xenobiotics,Food Component/Plant
+M48188,alpha-CEHC,Cofactors and Vitamins,Tocopherol Metabolism
+M39346,alpha-CEHC glucuronide*,Cofactors and Vitamins,Tocopherol Metabolism
+M47666,alpha-CEHC sulfate,Cofactors and Vitamins,Tocopherol Metabolism
+M37073,alpha-hydroxycaproate,Lipid,"Fatty Acid, Monohydroxy"
+M22132,alpha-hydroxyisocaproate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M33937,alpha-hydroxyisovalerate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M04968,alpha-ketobutyrate,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M00528,alpha-ketoglutarate,Energy,TCA Cycle
+M01561,alpha-tocopherol,Cofactors and Vitamins,Tocopherol Metabolism
+M32827,andro steroid monosulfate (1)*,Lipid,Steroid
+M31591,androsterone sulfate,Lipid,Steroid
+M15747,anserine,Peptide,Dipeptide Derivative
+M04970,anthranilate,Amino Acid,Tryptophan Metabolism
+M00575,arabinose,Carbohydrate,Pentose Metabolism
+M48885,arabitol/xylitol,Carbohydrate,Pentose Metabolism
+M48255,arabonate/xylonate,Carbohydrate,Pentose Metabolism
+M01118,arachidate (20:0),Lipid,Long Chain Fatty Acid
+M01110,arachidonate (20:4n6),Lipid,Polyunsaturated Fatty Acid (n3 and n6)
+M32463,arachidonoyl ethanolamide,Lipid,Endocannabinoid
+M53261,arachidonoylcholine,Lipid,Phospholipid Metabolism
+M01638,arginine,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M52960,aripiprazole,Xenobiotics,Drug
+M00512,asparagine,Amino Acid,Alanine and Aspartate Metabolism
+M00443,aspartate,Amino Acid,Alanine and Aspartate Metabolism
+M38658,atenolol,Xenobiotics,Drug
+M38619,atorvastatin (lipitor),Xenobiotics,Drug
+M47878,atorvastatin lactone,Xenobiotics,Drug
+M18362,azelate (nonanedioate),Lipid,"Fatty Acid, Dicarboxylate"
+M48492,behenoyl sphingomyelin (d18:1/22:0)*,Lipid,Sphingolipid Metabolism
+M37034,bendazac,Xenobiotics,Drug
+M15778,benzoate,Xenobiotics,Benzoate Metabolism
+M00055,beta-alanine,Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+M12129,beta-hydroxyisovalerate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M03141,betaine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+M38100,betonicine,Xenobiotics,Food Component/Plant
+M32586,"bilirubin (E,E)*",Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism
+M47886,"bilirubin (E,Z or Z,E)*",Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism
+M43807,"bilirubin (Z,Z)",Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism
+M02137,biliverdin,Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism
+M22154,bradykinin,Peptide,Polypeptide
+M34420,"bradykinin, des-arg(9)",Peptide,Polypeptide
+M33962,"bradykinin, hydroxy-pro(3)",Peptide,Polypeptide
+M32412,butyrylcarnitine,Lipid,Fatty Acid Metabolism (also BCAA Metabolism)
+M31850,butyrylglycine,Lipid,Fatty Acid Metabolism (also BCAA Metabolism)
+M48782,C-glycosyltryptophan,Amino Acid,Tryptophan Metabolism
+M00569,caffeine,Xenobiotics,Xanthine Metabolism
+M33997,campesterol,Lipid,Sterol
+M01642,caprate (10:0),Lipid,Medium Chain Fatty Acid
+M32489,caproate (6:0),Lipid,Medium Chain Fatty Acid
+M32492,caprylate (8:0),Lipid,Medium Chain Fatty Acid
+M37033,carbamazepine,Xenobiotics,Drug
+M37020,"carbamazepine 10,11-epoxide*",Xenobiotics,Drug
+M37056,carbamazepine glucuronide*,Xenobiotics,Drug
+M40007,carboxyethyl-GABA,Amino Acid,Glutamate Metabolism
+M43333,carboxyibuprofen,Xenobiotics,Drug
+M15500,carnitine,Lipid,Carnitine Metabolism
+M35320,catechol sulfate,Xenobiotics,Benzoate Metabolism
+M38599,celecoxib,Xenobiotics,Drug
+M01563,chenodeoxycholate,Lipid,Primary Bile Acid Metabolism
+M37112,chiro-inositol,Lipid,Inositol Metabolism
+M22842,cholate,Lipid,Primary Bile Acid Metabolism
+M00063,cholesterol,Lipid,Sterol
+M15506,choline,Lipid,Phospholipid Metabolism
+M34396,choline phosphate,Lipid,Phospholipid Metabolism
+M38637,cinnamoylglycine,Xenobiotics,Food Component/Plant
+M38178,cis-4-decenoyl carnitine,Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M01564,citrate,Energy,TCA Cycle
+M02132,citrulline,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M05983,corticosterone,Lipid,Steroid
+M01712,cortisol,Lipid,Steroid
+M01769,cortisone,Lipid,Steroid
+M00553,cotinine,Xenobiotics,Tobacco Metabolite
+M38662,cotinine N-oxide,Xenobiotics,Tobacco Metabolite
+M27718,creatine,Amino Acid,Creatine Metabolism
+M00513,creatinine,Amino Acid,Creatine Metabolism
+M18368,"cys-gly, oxidized",Amino Acid,Glutathione Metabolism
+M15705,cystathionine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M01868,cysteine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M22176,cysteine s-sulfate,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M37443,cysteine sulfinic acid,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M35159,cysteine-glutathione disulfide,Amino Acid,Glutathione Metabolism
+M35637,cysteinylglycine,Amino Acid,Glutathione Metabolism
+M00056,cystine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M00514,cytidine,Nucleotide,"Pyrimidine Metabolism, Cytidine containing"
+M02372,cytidine 5'-monophosphate (5'-CMP),Nucleotide,"Pyrimidine Metabolism, Cytidine containing"
+M33941,decanoylcarnitine,Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M32425,dehydroisoandrosterone sulfate (DHEA-S),Lipid,Steroid
+M36747,deoxycarnitine,Lipid,Carnitine Metabolism
+M01114,deoxycholate,Lipid,Secondary Bile Acid Metabolism
+M52931,diclofenac,Xenobiotics,Drug
+M17805,dihomo-linoleate (20:2n6),Lipid,Polyunsaturated Fatty Acid (n3 and n6)
+M35718,dihomo-linolenate (20:3n3 or n6),Lipid,Polyunsaturated Fatty Acid (n3 and n6)
+M53262,dihomo-linolenoyl-choline,Lipid,Phospholipid Metabolism
+M40481,dihydroferulic acid,Xenobiotics,Food Component/Plant
+M00601,dihydroorotate,Nucleotide,"Pyrimidine Metabolism, Orotate containing"
+M43424,dimethyl sulfone,Xenobiotics,Chemical
+M36808,dimethylarginine (SDMA + ADMA),Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M05086,dimethylglycine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+M38669,diphenhydramine,Xenobiotics,Drug
+M32415,docosadienoate (22:2n6),Lipid,Polyunsaturated Fatty Acid (n3 and n6)
+M39837,docosadioate,Lipid,"Fatty Acid, Dicarboxylate"
+M44675,docosahexaenoate (DHA; 22:6n3),Lipid,Polyunsaturated Fatty Acid (n3 and n6)
+M53263,docosahexaenoylcholine,Lipid,Phospholipid Metabolism
+M32504,docosapentaenoate (n3 DPA; 22:5n3),Lipid,Polyunsaturated Fatty Acid (n3 and n6)
+M37478,docosapentaenoate (n6 DPA; 22:5n6),Lipid,Polyunsaturated Fatty Acid (n3 and n6)
+M32417,docosatrienoate (22:3n3),Lipid,Polyunsaturated Fatty Acid (n3 and n6)
+M32388,dodecanedioate,Lipid,"Fatty Acid, Dicarboxylate"
+M48406,dopamine sulfate (1),Amino Acid,Phenylalanine and Tyrosine Metabolism
+M48407,dopamine sulfate (2),Amino Acid,Phenylalanine and Tyrosine Metabolism
+M31548,DSGEGDFXAEGGGVR*,Peptide,Fibrinogen Cleavage Peptide
+M35651,ectoine,Xenobiotics,Chemical
+M22163,EDTA,Xenobiotics,Chemical
+M39831,eicosanodioate,Lipid,"Fatty Acid, Dicarboxylate"
+M18467,eicosapentaenoate (EPA; 20:5n3),Lipid,Polyunsaturated Fatty Acid (n3 and n6)
+M53258,eicosapentaenoylcholine,Lipid,Phospholipid Metabolism
+M33587,eicosenoate (20:1),Lipid,Long Chain Fatty Acid
+M33973,epiandrosterone sulfate,Lipid,Steroid
+M37459,ergothioneine,Xenobiotics,Food Component/Plant
+M01552,erucate (22:1n9),Lipid,Long Chain Fatty Acid
+M20699,erythritol,Xenobiotics,Food Component/Plant
+M42420,erythronate*,Carbohydrate,Aminosugar Metabolism
+M40459,escitalopram,Xenobiotics,Drug
+M18474,estrone 3-sulfate,Lipid,Steroid
+M48463,ethyl paraben sulfate,Xenobiotics,Chemical
+M15765,ethylmalonate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M47112,etiocholanolone glucuronide,Lipid,Steroid
+M48715,eugenol sulfate,Xenobiotics,Food Component/Plant
+M47114,ferulic acid 4-sulfate,Xenobiotics,Food Component/Plant
+M42021,fexofenadine,Xenobiotics,Drug
+M44619,fluoxetine,Xenobiotics,Drug
+M40456,fluvoxamine,Xenobiotics,Drug
+M00577,fructose,Carbohydrate,"Fructose, Mannose and Galactose Metabolism"
+M01643,fumarate,Energy,TCA Cycle
+M38686,gabapentin,Xenobiotics,Drug
+M27719,galactonate,Carbohydrate,"Fructose, Mannose and Galactose Metabolism"
+M38754,gamma-carboxyglutamate,Amino Acid,Glutamate Metabolism
+M44876,gamma-CEHC,Cofactors and Vitamins,Tocopherol Metabolism
+M42381,gamma-CEHC glucuronide*,Cofactors and Vitamins,Tocopherol Metabolism
+M37092,gamma-glutamyl-2-aminobutyrate,Peptide,Gamma-glutamyl Amino Acid
+M33934,gamma-glutamyl-epsilon-lysine,Peptide,Gamma-glutamyl Amino Acid
+M37063,gamma-glutamylalanine,Peptide,Gamma-glutamyl Amino Acid
+M36738,gamma-glutamylglutamate,Peptide,Gamma-glutamyl Amino Acid
+M02730,gamma-glutamylglutamine,Peptide,Gamma-glutamyl Amino Acid
+M33949,gamma-glutamylglycine,Peptide,Gamma-glutamyl Amino Acid
+M18245,gamma-glutamylhistidine,Peptide,Gamma-glutamyl Amino Acid
+M34456,gamma-glutamylisoleucine*,Peptide,Gamma-glutamyl Amino Acid
+M18369,gamma-glutamylleucine,Peptide,Gamma-glutamyl Amino Acid
+M44872,gamma-glutamylmethionine,Peptide,Gamma-glutamyl Amino Acid
+M33422,gamma-glutamylphenylalanine,Peptide,Gamma-glutamyl Amino Acid
+M33364,gamma-glutamylthreonine*,Peptide,Gamma-glutamyl Amino Acid
+M33947,gamma-glutamyltryptophan,Peptide,Gamma-glutamyl Amino Acid
+M02734,gamma-glutamyltyrosine,Peptide,Gamma-glutamyl Amino Acid
+M43829,gamma-glutamylvaline,Peptide,Gamma-glutamyl Amino Acid
+M52473,gamma-tocopherol/beta-tocopherol,Cofactors and Vitamins,Tocopherol Metabolism
+M18280,gentisate,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M20705,glucoheptose,Xenobiotics,Food Component/Plant
+M00587,gluconate,Xenobiotics,Food Component/Plant
+M20488,glucose,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"
+M15443,glucuronate,Carbohydrate,Aminosugar Metabolism
+M00057,glutamate,Amino Acid,Glutamate Metabolism
+M33487,"glutamate, gamma-methyl ester",Amino Acid,Glutamate Metabolism
+M00053,glutamine,Amino Acid,Glutamate Metabolism
+M00396,glutarate (pentanedioate),Amino Acid,Lysine Metabolism
+M44664,glutarylcarnitine (C5),Amino Acid,Lysine Metabolism
+M38783,"glutathione, oxidized (GSSG)",Amino Acid,Glutathione Metabolism
+M01572,glycerate,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"
+M15122,glycerol,Lipid,Glycerolipid Metabolism
+M43847,glycerol 3-phosphate,Lipid,Glycerolipid Metabolism
+M37455,glycerophosphoethanolamine,Lipid,Phospholipid Metabolism
+M47155,glycerophosphoinositol*,Lipid,Phospholipid Metabolism
+M15990,glycerophosphorylcholine (GPC),Lipid,Phospholipid Metabolism
+M00058,glycine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+M32346,glycochenodeoxycholate,Lipid,Primary Bile Acid Metabolism
+M52983,glycochenodeoxycholate glucuronide (1),Lipid,Primary Bile Acid Metabolism
+M52974,glycochenodeoxycholate sulfate,Lipid,Primary Bile Acid Metabolism
+M18476,glycocholate,Lipid,Primary Bile Acid Metabolism
+M32599,glycocholenate sulfate*,Lipid,Secondary Bile Acid Metabolism
+M18477,glycodeoxycholate,Lipid,Secondary Bile Acid Metabolism
+M52975,glycodeoxycholate sulfate,Lipid,Secondary Bile Acid Metabolism
+M42574,glycohyocholate,Lipid,Secondary Bile Acid Metabolism
+M31912,glycolithocholate,Lipid,Secondary Bile Acid Metabolism
+M32620,glycolithocholate sulfate*,Lipid,Secondary Bile Acid Metabolism
+M53013,glycosyl-N-palmitoyl-sphingosine,Lipid,Sphingolipid Metabolism
+M52234,glycosyl-N-stearoyl-sphingosine,Lipid,Sphingolipid Metabolism
+M39379,glycoursodeoxycholate,Lipid,Secondary Bile Acid Metabolism
+M43802,guanidinoacetate,Amino Acid,Creatine Metabolism
+M46957,gulonic acid*,Cofactors and Vitamins,Ascorbate and Aldarate Metabolism
+M41754,heme,Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism
+M01644,heptanoate (7:0),Lipid,Medium Chain Fatty Acid
+M35678,hexadecanedioate,Lipid,"Fatty Acid, Dicarboxylate"
+M32328,hexanoylcarnitine,Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M35436,hexanoylglycine,Lipid,Fatty Acid Metabolism(Acyl Glycine)
+M15753,hippurate,Xenobiotics,Benzoate Metabolism
+M00059,histidine,Amino Acid,Histidine Metabolism
+M22137,homoarginine,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M22138,homocitrulline,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M33009,homostachydrine*,Xenobiotics,Food Component/Plant
+M01101,homovanillate (HVA),Amino Acid,Phenylalanine and Tyrosine Metabolism
+M40473,hydantoin-5-propionic acid,Amino Acid,Histidine Metabolism
+M35322,hydroquinone sulfate,Xenobiotics,Drug
+M38661,hydroxycotinine,Xenobiotics,Tobacco Metabolite
+M34093,hyocholate,Lipid,Secondary Bile Acid Metabolism
+M00590,hypotaurine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M03127,hypoxanthine,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing"
+M32426,I-urobilinogen,Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism
+M17799,ibuprofen,Xenobiotics,Drug
+M38366,ibuprofen acyl glucuronide,Xenobiotics,Drug
+M15716,imidazole lactate,Amino Acid,Histidine Metabolism
+M40730,imidazole propionate,Amino Acid,Histidine Metabolism
+M21025,iminodiacetate (IDA),Xenobiotics,Chemical
+M38116,indole-3-carboxylic acid,Amino Acid,Tryptophan Metabolism
+M27513,indoleacetate,Amino Acid,Tryptophan Metabolism
+M42087,indoleacetylglutamine,Amino Acid,Tryptophan Metabolism
+M34402,indolebutyrate,Amino Acid,Tryptophan Metabolism
+M18349,indolelactate,Amino Acid,Tryptophan Metabolism
+M32405,indolepropionate,Amino Acid,Tryptophan Metabolism
+M43374,indolin-2-one,Xenobiotics,Food Component/Plant
+M01123,inosine,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing"
+M02133,inosine 5'-monophosphate (IMP),Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing"
+M33441,isobutyrylcarnitine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M35437,isobutyrylglycine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M12110,isocitrate,Energy,TCA Cycle
+M48997,isoeugenol sulfate,Xenobiotics,Food Component/Plant
+M01125,isoleucine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M44656,isovalerate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M34407,isovalerylcarnitine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M35107,isovalerylglycine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M01417,kynurenate,Amino Acid,Tryptophan Metabolism
+M15140,kynurenine,Amino Acid,Tryptophan Metabolism
+M40173,L-urobilin,Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism
+M00527,lactate,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"
+M53010,lactosyl-N-palmitoyl-sphingosine,Lipid,Sphingolipid Metabolism
+M42002,lanthionine,Xenobiotics,Chemical
+M01645,laurate (12:0),Lipid,Medium Chain Fatty Acid
+M34534,laurylcarnitine,Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M00060,leucine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M35661,lidocaine,Xenobiotics,Drug
+M01105,linoleate (18:2n6),Lipid,Polyunsaturated Fatty Acid (n3 and n6)
+M34035,linolenate [alpha or gamma; (18:3n3 or 6)],Lipid,Polyunsaturated Fatty Acid (n3 and n6)
+M52608,linoleoyl ethanolamide,Lipid,Endocannabinoid
+M46223,linoleoylcarnitine*,Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M01301,lysine,Amino Acid,Lysine Metabolism
+M01303,malate,Energy,TCA Cycle
+M20676,maleate,Lipid,"Fatty Acid, Dicarboxylate"
+M15872,malonate,Lipid,Fatty Acid Synthesis
+M37059,malonylcarnitine,Lipid,Fatty Acid Synthesis
+M15586,maltose,Carbohydrate,Glycogen Metabolism
+M44688,maltotriose,Carbohydrate,Glycogen Metabolism
+M46142,mannitol/sorbitol,Carbohydrate,"Fructose, Mannose and Galactose Metabolism"
+M48153,mannose,Carbohydrate,"Fructose, Mannose and Galactose Metabolism"
+M01121,margarate (17:0),Lipid,Long Chain Fatty Acid
+M38306,metformin,Xenobiotics,Drug
+M01302,methionine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M44878,methionine sulfone,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M18374,methionine sulfoxide,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M46144,methyl glucopyranoside (alpha + beta),Xenobiotics,Food Component/Plant
+M01584,methyl indole-3-acetate,Xenobiotics,Food Component/Plant
+M48429,methyl-4-hydroxybenzoate sulfate,Xenobiotics,Benzoate Metabolism
+M01496,methylmalonate (MMA),Lipid,Fatty Acid Metabolism (also BCAA Metabolism)
+M15745,methylsuccinate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M53031,methylsuccinoylcarnitine (1),Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M18037,metoprolol,Xenobiotics,Drug
+M01124,myo-inositol,Lipid,Inositol Metabolism
+M01365,myristate (14:0),Lipid,Long Chain Fatty Acid
+M32418,myristoleate (14:1n5),Lipid,Long Chain Fatty Acid
+M48182,myristoleoylcarnitine*,Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M33952,myristoylcarnitine,Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M52358,"N,O-didesmethylvenlafaxine glucuronide",Xenobiotics,Drug
+M31536,N-(2-furoyl)glycine,Xenobiotics,Food Component/Plant
+M43255,N-acetyl-1-methylhistidine*,Amino Acid,Histidine Metabolism
+M43256,N-acetyl-3-methylhistidine*,Amino Acid,Histidine Metabolism
+M35665,N-acetyl-aspartyl-glutamate (NAAG),Amino Acid,Glutamate Metabolism
+M37432,N-acetyl-beta-alanine,Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+M43530,N-acetyl-cadaverine,Amino Acid,Lysine Metabolism
+M01585,N-acetylalanine,Amino Acid,Alanine and Aspartate Metabolism
+M45404,N-acetylalliin,Xenobiotics,Food Component/Plant
+M33953,N-acetylarginine,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M22185,N-acetylaspartate (NAA),Amino Acid,Alanine and Aspartate Metabolism
+M43488,N-acetylcarnosine,Peptide,Dipeptide Derivative
+M48434,N-acetylcitrulline,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M48149,N-acetylglucosaminylasparagine,Carbohydrate,Aminosugar Metabolism
+M15720,N-acetylglutamate,Amino Acid,Glutamate Metabolism
+M33943,N-acetylglutamine,Amino Acid,Glutamate Metabolism
+M27710,N-acetylglycine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+M33946,N-acetylhistidine,Amino Acid,Histidine Metabolism
+M33967,N-acetylisoleucine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M48757,N-acetylkynurenine (2),Amino Acid,Tryptophan Metabolism
+M01587,N-acetylleucine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M01589,N-acetylmethionine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M32377,N-acetylneuraminate,Carbohydrate,Aminosugar Metabolism
+M33950,N-acetylphenylalanine,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M34387,N-acetylproline,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M37496,N-acetylputrescine,Amino Acid,Polyamine Metabolism
+M37076,N-acetylserine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+M48187,N-acetyltaurine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M33939,N-acetylthreonine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+M33959,N-acetyltryptophan,Amino Acid,Tryptophan Metabolism
+M32390,N-acetyltyrosine,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M01591,N-acetylvaline,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M32984,N-alpha-acetylornithine,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M43249,N-delta-acetylornithine,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M33080,N-ethylglycinexylidide,Xenobiotics,Drug
+M02829,N-formylmethionine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M48433,N-formylphenylalanine,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M47101,N-methylpipecolate,Xenobiotics,Chemical
+M37431,N-methylproline,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M52604,N-palmitoyl-sphinganine (d18:0/16:0),Lipid,Sphingolipid Metabolism
+M44877,N-palmitoyl-sphingosine (d18:1/16:0),Lipid,Sphingolipid Metabolism
+M42092,N-palmitoylglycine,Lipid,Fatty Acid Metabolism(Acyl Glycine)
+M40469,N1-Methyl-2-pyridone-5-carboxamide,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+M15650,N1-methyladenosine,Nucleotide,"Purine Metabolism, Adenine containing"
+M48351,N1-methylinosine,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing"
+M35137,"N2,N2-dimethylguanosine",Nucleotide,"Purine Metabolism, Guanine containing"
+M43591,"N2,N5-diacetylornithine",Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M35130,N4-acetylcytidine,Nucleotide,"Pyrimidine Metabolism, Cytidine containing"
+M01498,"N6,N6,N6-trimethyllysine",Amino Acid,Lysine Metabolism
+M36752,N6-acetyllysine,Amino Acid,Lysine Metabolism
+M35157,N6-carbamoylthreonyladenosine,Nucleotide,"Purine Metabolism, Adenine containing"
+M36713,N6-carboxymethyllysine,Carbohydrate,Advanced Glycation End-product
+M37114,N6-methyladenosine,Nucleotide,"Purine Metabolism, Adenine containing"
+M48130,N6-succinyladenosine,Nucleotide,"Purine Metabolism, Adenine containing"
+M00594,nicotinamide,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+M33013,nicotinamide riboside,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+M38666,nicotine,Xenobiotics,Drug
+M34598,nifedipine,Xenobiotics,Drug
+M01356,nonadecanoate (19:0),Lipid,Long Chain Fatty Acid
+M37252,norfluoxetine,Xenobiotics,Drug
+M38122,nornicotine,Xenobiotics,Chemical
+M52363,noroxycodone,Xenobiotics,Drug
+M31539,O-acetylhomoserine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+M36845,o-cresol sulfate,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M43334,O-desmethylvenlafaxine,Xenobiotics,Drug
+M47883,o-hydroxyatorvastatin,Xenobiotics,Drug
+M47879,o-hydroxyatorvastatin lactone,Xenobiotics,Drug
+M46111,O-methylcatechol sulfate,Xenobiotics,Benzoate Metabolism
+M45413,O-sulfo-L-tyrosine,Xenobiotics,Chemical
+M36754,octadecanedioate,Lipid,"Fatty Acid, Dicarboxylate"
+M33936,octanoylcarnitine,Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M52285,oleate/vaccenate (18:1),Lipid,Long Chain Fatty Acid
+M38102,oleoyl ethanolamide,Lipid,Endocannabinoid
+M35160,oleoylcarnitine,Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M53260,oleoylcholine,Lipid,Phospholipid Metabolism
+M38600,omeprazole,Xenobiotics,Drug
+M01493,ornithine,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M01505,orotate,Nucleotide,"Pyrimidine Metabolism, Orotate containing"
+M35172,orotidine,Nucleotide,"Pyrimidine Metabolism, Orotate containing"
+M20694,oxalate (ethanedioate),Cofactors and Vitamins,Ascorbate and Aldarate Metabolism
+M52365,oxycodone,Xenobiotics,Drug
+M36103,p-cresol sulfate,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M48841,p-cresol-glucuronide*,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M47881,p-hydroxyatorvastatin,Xenobiotics,Drug
+M01336,palmitate (16:0),Lipid,Long Chain Fatty Acid
+M33447,palmitoleate (16:1n7),Lipid,Long Chain Fatty Acid
+M53257,palmitoloelycholine,Lipid,Phospholipid Metabolism
+M52434,palmitoyl dihydrosphingomyelin (d18:0/16:0)*,Lipid,Sphingolipid Metabolism
+M38165,palmitoyl ethanolamide,Lipid,Endocannabinoid
+M37506,palmitoyl sphingomyelin (d18:1/16:0),Lipid,Sphingolipid Metabolism
+M44681,palmitoylcarnitine,Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M52944,palmitoylcholine,Lipid,Fatty Acid Metabolism (Acyl Choline)
+M01508,pantothenate,Cofactors and Vitamins,Pantothenate and CoA Metabolism
+M18254,paraxanthine,Xenobiotics,Xanthine Metabolism
+M40461,paroxetine,Xenobiotics,Drug
+M01361,pentadecanoate (15:0),Lipid,Long Chain Fatty Acid
+M32553,phenol sulfate,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M32396,phenolphthalein beta-D-glucuronide,Xenobiotics,Chemical
+M15958,phenylacetate,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M48425,phenylacetylcarnitine,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M52925,phenylacetylglutamate,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M35126,phenylacetylglutamine,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M00064,phenylalanine,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M22130,phenyllactate (PLA),Amino Acid,Phenylalanine and Tyrosine Metabolism
+M00566,phenylpyruvate,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M42109,phosphate,Energy,Oxidative Phosphorylation
+M01600,phosphoethanolamine,Lipid,Phospholipid Metabolism
+M00598,phytanate,Xenobiotics,Food Component/Plant
+M01512,picolinate,Amino Acid,Tryptophan Metabolism
+M15704,pimelate (heptanedioate),Lipid,"Fatty Acid, Dicarboxylate"
+M53224,pimeloylcarnitine/3-methyladipoylcarnitine,Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M33139,pioglitazone,Xenobiotics,Drug
+M01444,pipecolate,Amino Acid,Lysine Metabolism
+M33935,piperine,Xenobiotics,Food Component/Plant
+M32619,pregn steroid monosulfate*,Lipid,Steroid
+M40708,pregnanediol-3-glucuronide,Lipid,Steroid
+M48394,pregnanolone/allopregnanolone sulfate,Lipid,Steroid
+M32562,pregnen-diol disulfate*,Lipid,Steroid
+M38170,pregnenolone sulfate,Lipid,Steroid
+M35127,pro-hydroxy-pro,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M01898,proline,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M40703,prolylglycine,Peptide,Dipeptide
+M32452,propionylcarnitine,Lipid,Fatty Acid Metabolism (also BCAA Metabolism)
+M31932,propionylglycine,Lipid,Fatty Acid Metabolism (also BCAA Metabolism)
+M48460,propyl 4-hydroxybenzoate sulfate,Xenobiotics,Benzoate Metabolism
+M39586,pseudoephedrine,Xenobiotics,Drug
+M33442,pseudouridine,Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+M01651,pyridoxal,Cofactors and Vitamins,Vitamin B6 Metabolism
+M31555,pyridoxate,Cofactors and Vitamins,Vitamin B6 Metabolism
+M46225,pyroglutamine*,Amino Acid,Glutamate Metabolism
+M48428,pyrraline,Xenobiotics,Food Component/Plant
+M42582,pyruvate,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"
+M39787,quetiapine,Xenobiotics,Drug
+M18335,quinate,Xenobiotics,Food Component/Plant
+M01899,quinolinate,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+M38595,ranitidine,Xenobiotics,Drug
+M01806,retinol (Vitamin A),Cofactors and Vitamins,Vitamin A Metabolism
+M15772,ribitol,Carbohydrate,Pentose Metabolism
+M27731,ribonate,Carbohydrate,Pentose Metabolism
+M42370,S-1-pyrroline-5-carboxylate,Amino Acid,Glutamate Metabolism
+M42382,S-adenosylhomocysteine (SAH),Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M43239,S-allylcysteine,Xenobiotics,Food Component/Plant
+M39592,S-methylcysteine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M38127,S-methylmethionine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M21151,saccharin,Xenobiotics,Food Component/Plant
+M01515,salicylate,Xenobiotics,Drug
+M33384,salicyluric glucuronide*,Xenobiotics,Drug
+M01516,sarcosine (N-Methylglycine),Amino Acid,"Glycine, Serine and Threonine Metabolism"
+M32398,sebacate (decanedioate),Lipid,"Fatty Acid, Dicarboxylate"
+M01648,serine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+M02342,serotonin,Amino Acid,Tryptophan Metabolism
+M52954,sitagliptin,Xenobiotics,Drug
+M39788,solanidine,Xenobiotics,Food Component/Plant
+M00485,spermidine,Amino Acid,Polyamine Metabolism
+M17769,sphinganine,Lipid,Sphingolipid Metabolism
+M52605,sphinganine-1-phosphate,Lipid,Sphingolipid Metabolism
+M42463,"sphingomyelin (d18:1/14:0, d16:1/16:0)*",Lipid,Sphingolipid Metabolism
+M52433,"sphingomyelin (d18:1/15:0, d16:1/17:0)*",Lipid,Sphingolipid Metabolism
+M52615,"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)",Lipid,Sphingolipid Metabolism
+M37529,"sphingomyelin (d18:1/18:1, d18:2/18:0)",Lipid,Sphingolipid Metabolism
+M48490,"sphingomyelin (d18:1/20:0, d16:1/22:0)*",Lipid,Sphingolipid Metabolism
+M48491,"sphingomyelin (d18:1/20:1, d18:2/20:0)*",Lipid,Sphingolipid Metabolism
+M52495,"sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)*",Lipid,Sphingolipid Metabolism
+M48493,"sphingomyelin (d18:1/22:1, d18:2/22:0, d16:1/24:1)*",Lipid,Sphingolipid Metabolism
+M47153,"sphingomyelin (d18:1/24:1, d18:2/24:0)*",Lipid,Sphingolipid Metabolism
+M47154,"sphingomyelin (d18:2/14:0, d18:1/14:1)*",Lipid,Sphingolipid Metabolism
+M42459,"sphingomyelin (d18:2/16:0, d18:1/16:1)*",Lipid,Sphingolipid Metabolism
+M52435,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*",Lipid,Sphingolipid Metabolism
+M52437,"sphingomyelin (d18:2/24:1, d18:1/24:2)*",Lipid,Sphingolipid Metabolism
+M17747,sphingosine,Lipid,Sphingolipid Metabolism
+M34445,sphingosine 1-phosphate,Lipid,Sphingolipid Metabolism
+M34384,stachydrine,Xenobiotics,Food Component/Plant
+M01358,stearate (18:0),Lipid,Long Chain Fatty Acid
+M33969,stearidonate (18:4n3),Lipid,Polyunsaturated Fatty Acid (n3 and n6)
+M19503,stearoyl sphingomyelin (d18:1/18:0),Lipid,Sphingolipid Metabolism
+M34409,stearoylcarnitine,Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M15730,suberate (octanedioate),Lipid,"Fatty Acid, Dicarboxylate"
+M52990,suberoylcarnitine,Lipid,Fatty Acid Metabolism(Acyl Carnitine)
+M01437,succinate,Energy,TCA Cycle
+M41888,succinimide,Xenobiotics,Chemical
+M37058,succinylcarnitine,Energy,TCA Cycle
+M01519,sucrose,Carbohydrate,Disaccharides and Oligosaccharides
+M46960,sulfate*,Xenobiotics,Chemical
+M15336,tartarate,Xenobiotics,Food Component/Plant
+M20693,tartronate (hydroxymalonate),Xenobiotics,Bacterial/Fungal
+M02125,taurine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+M33983,tauro-beta-muricholate,Lipid,Primary Bile Acid Metabolism
+M18494,taurochenodeoxycholate,Lipid,Primary Bile Acid Metabolism
+M18497,taurocholate,Lipid,Primary Bile Acid Metabolism
+M32807,taurocholenate sulfate,Lipid,Secondary Bile Acid Metabolism
+M12261,taurodeoxycholate,Lipid,Secondary Bile Acid Metabolism
+M36850,taurolithocholate 3-sulfate,Lipid,Secondary Bile Acid Metabolism
+M35669,tetradecanedioate,Lipid,"Fatty Acid, Dicarboxylate"
+M22206,theanine,Xenobiotics,Food Component/Plant
+M18392,theobromine,Xenobiotics,Xanthine Metabolism
+M18394,theophylline,Xenobiotics,Xanthine Metabolism
+M53231,thioproline,Amino Acid,Tryptophan Metabolism
+M27738,threonate,Cofactors and Vitamins,Ascorbate and Aldarate Metabolism
+M01284,threonine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+M36095,thymol sulfate,Xenobiotics,Food Component/Plant
+M02761,thyroxine,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M37032,ticlopidine,Xenobiotics,Drug
+M01598,tigloylglycine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M35428,tiglylcarnitine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M32306,trans-4-hydroxyproline,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M00607,trans-urocanate,Amino Acid,Histidine Metabolism
+M52436,tricosanoyl sphingomyelin (d18:1/23:0)*,Lipid,Sphingolipid Metabolism
+M32401,trigonelline (N'-methylnicotinate),Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+M40406,trimethylamine N-oxide,Lipid,Phospholipid Metabolism
+M00054,tryptophan,Amino Acid,Tryptophan Metabolism
+M37097,tryptophan betaine,Amino Acid,Tryptophan Metabolism
+M48408,tyramine O-sulfate,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M01299,tyrosine,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M48674,umbelliferone sulfate,Xenobiotics,Food Component/Plant
+M00605,uracil,Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+M01604,urate,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing"
+M01670,urea,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+M00606,uridine,Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+M01605,ursodeoxycholate,Lipid,Secondary Bile Acid Metabolism
+M01649,valine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+M40475,valylglycine,Peptide,Dipeptide
+M39994,valylleucine,Peptide,Dipeptide
+M48733,vanillic alcohol sulfate,Amino Acid,Phenylalanine and Tyrosine Metabolism
+M01567,vanillylmandelate (VMA),Amino Acid,Phenylalanine and Tyrosine Metabolism
+M38623,venlafaxine,Xenobiotics,Drug
+M03147,xanthine,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing"
+M15679,xanthurenate,Amino Acid,Tryptophan Metabolism
+M15581,xylose,Carbohydrate,Pentose Metabolism
+M46459,X - 01911,,
+M46500,X - 02249,,
+M32786,X - 02269,,
+M46590,X - 07765,,
+M46355,X - 09789,,
+M47478,X - 10458,,
+M32578,X - 11261,,
+M46592,X - 11299,,
+M46390,X - 11308,,
+M49592,X - 11315,,
+M46663,X - 11334,,
+M46594,X - 11372,,
+M46595,X - 11378,,
+M32698,X - 11381,,
+M46597,X - 11429,,
+M46598,X - 11438,,
+M46599,X - 11440,,
+M46360,X - 11441,,
+M46443,X - 11442,,
+M46460,X - 11444,,
+M46600,X - 11452,,
+M46601,X - 11470,,
+M46602,X - 11478,,
+M47650,X - 11483,,
+M47901,X - 11485,,
+M47651,X - 11491,,
+M46914,X - 11522,,
+M46603,X - 11530,,
+M47594,X - 11537,,
+M46604,X - 11538,,
+M32857,X - 11540,,
+M47652,X - 11549,,
+M46260,X - 11564,,
+M47653,X - 11593,,
+M47493,X - 11632,,
+M33132,X - 11787,,
+M33140,X - 11795,,
+M46509,X - 11805,,
+M46982,X - 11838,,
+M46466,X - 11843,,
+M46488,X - 11847,,
+M46607,X - 11849,,
+M46507,X - 11850,,
+M46521,X - 11852,,
+M47654,X - 11858,,
+M47655,X - 11861,,
+M47641,X - 11871,,
+M46608,X - 11880,,
+M46367,X - 11905,,
+M46610,X - 12007,,
+M46611,X - 12013,,
+M47390,X - 12015,,
+M47905,X - 12026,,
+M46588,X - 12063,,
+M47687,X - 12100,,
+M47642,X - 12101,,
+M52597,X - 12104,,
+M52797,X - 12111,,
+M47690,X - 12112,,
+M46966,X - 12126,,
+M47702,X - 12127,,
+M47909,X - 12170,,
+M46985,X - 12193,,
+M46612,X - 12206,,
+M46358,X - 12212,,
+M46613,X - 12216,,
+M46614,X - 12230,,
+M47656,X - 12231,,
+M47912,X - 12257,,
+M47657,X - 12261,,
+M47915,X - 12263,,
+M47708,X - 12283,,
+M47917,X - 12306,,
+M47709,X - 12339,,
+M46616,X - 12411,,
+M46618,X - 12442,,
+M46619,X - 12450,,
+M47639,X - 12456,,
+M33904,X - 12459,,
+M46620,X - 12462,,
+M46628,X - 12472,,
+M46458,X - 12511,,
+M46621,X - 12524,,
+M47922,X - 12543,,
+M46510,X - 12544,,
+M47437,X - 12680,,
+M47715,X - 12681,,
+M47718,X - 12688,,
+M46962,X - 12701,,
+M47929,X - 12707,,
+M46318,X - 12714,,
+M47933,X - 12715,,
+M47936,X - 12726,,
+M46623,X - 12729,,
+M47938,X - 12731,,
+M46626,X - 12739,,
+M46627,X - 12740,,
+M46894,X - 12748,,
+M47723,X - 12753,,
+M46624,X - 12798,,
+M46986,X - 12812,,
+M46630,X - 12816,,
+M47943,X - 12818,,
+M46997,X - 12822,,
+M46471,X - 12824,,
+M47662,X - 12830,,
+M46633,X - 12844,,
+M46634,X - 12846,,
+M46364,X - 12847,,
+M46636,X - 12849,,
+M46639,X - 12851,,
+M47955,X - 12906,,
+M47203,X - 13007,,
+M47788,X - 13431,,
+M46733,X - 13435,,
+M46643,X - 13529,,
+M47959,X - 13553,,
+M47664,X - 13658,,
+M47790,X - 13684,,
+M46645,X - 13728,,
+M47971,X - 13729,,
+M47441,X - 13737,,
+M46646,X - 13835,,
+M47977,X - 13844,,
+M46417,X - 13866,,
+M46648,X - 13891,,
+M46632,X - 14056,,
+M47225,X - 14314,,
+M46311,X - 14473,,
+M46649,X - 14568,,
+M46655,X - 14626,,
+M46652,X - 14658,,
+M46656,X - 14662,,
+M47787,X - 14838,,
+M47204,X - 14904,,
+M46657,X - 14939,,
+M46658,X - 15220,,
+M46661,X - 15245,,
+M46283,X - 15461,,
+M46640,X - 15469,,
+M46266,X - 15486,,
+M46662,X - 15492,,
+M46473,X - 15497,,
+M46977,X - 15503,,
+M47800,X - 15666,,
+M46666,X - 15728,,
+M47801,X - 16071,,
+M47988,X - 16087,,
+M46461,X - 16124,,
+M46644,X - 16132,,
+M47802,X - 16397,,
+M47013,X - 16570,,
+M46673,X - 16576,,
+M47804,X - 16580,,
+M46677,X - 16654,,
+M46681,X - 16935,,
+M46511,X - 16938,,
+M46683,X - 16944,,
+M46517,X - 16946,,
+M46480,X - 16947,,
+M46685,X - 16964,,
+M47993,X - 17010,,
+M46689,X - 17145,,
+M46692,X - 17166,,
+M46490,X - 17185,,
+M46412,X - 17189,,
+M40097,X - 17299,,
+M47808,X - 17301,,
+M46672,X - 17325,,
+M47817,X - 17327,,
+M47818,X - 17328,,
+M47820,X - 17335,,
+M47821,X - 17337,,
+M47872,X - 17340,,
+M47824,X - 17346,,
+M46989,X - 17348,,
+M48001,X - 17351,,
+M47009,X - 17354,,
+M48009,X - 17357,,
+M48011,X - 17359,,
+M46976,X - 17365,,
+M46994,X - 17367,,
+M46706,X - 17469,,
+M46707,X - 17653,,
+M46709,X - 17654,,
+M48019,X - 17655,,
+M46970,X - 17676,,
+M48025,X - 17685,,
+M46710,X - 17690,,
+M47001,X - 17692,,
+M48035,X - 17701,,
+M46366,X - 18249,,
+M47342,X - 18345,,
+M46687,X - 18779,,
+M48046,X - 18838,,
+M48047,X - 18886,,
+M47301,X - 18887,,
+M47347,X - 18889,,
+M47670,X - 18899,,
+M46690,X - 18901,,
+M46695,X - 18913,,
+M46368,X - 18914,,
+M47671,X - 18921,,
+M46700,X - 18922,,
+M48050,X - 18938,,
+M46701,X - 19141,,
+M46261,X - 19438,,
+M47674,X - 19455,,
+M47561,X - 19561,,
+M46999,X - 20529,,
+M46259,X - 21258,,
+M46294,X - 21285,,
+M46295,X - 21286,,
+M46316,X - 21295,,
+M46356,X - 21312,,
+M46359,X - 21315,,
+M46362,X - 21318,,
+M46363,X - 21319,,
+M46384,X - 21339,,
+M46386,X - 21341,,
+M46388,X - 21343,,
+M46398,X - 21353,,
+M46403,X - 21358,,
+M46409,X - 21364,,
+M46410,X - 21365,,
+M46428,X - 21383,,
+M46455,X - 21410,,
+M46456,X - 21411,,
+M46486,X - 21441,,
+M46487,X - 21442,,
+M46489,X - 21444,,
+M46493,X - 21448,,
+M46503,X - 21458,,
+M46512,X - 21467,,
+M46515,X - 21470,,
+M46516,X - 21471,,
+M46519,X - 21474,,
+M46674,X - 21607,,
+M46694,X - 21626,,
+M46696,X - 21628,,
+M46726,X - 21657,,
+M46727,X - 21658,,
+M46728,X - 21659,,
+M46740,X - 21666,,
+M46742,X - 21668,,
+M46898,X - 21729,,
+M46902,X - 21733,,
+M46905,X - 21736,,
+M46909,X - 21740,,
+M46968,X - 21792,,
+M46972,X - 21796,,
+M46984,X - 21807,,
+M46992,X - 21815,,
+M46993,X - 21816,,
+M46998,X - 21821,,
+M47011,X - 21834,,
+M47026,X - 21849,,
+M47027,X - 21850,,
+M47028,X - 21851,,
+M47281,X - 22035,,
+M47348,X - 22102,,
+M47389,X - 22143,,
+M47391,X - 22145,,
+M47393,X - 22147,,
+M47417,X - 22162,,
+M47640,X - 22379,,
+M47676,X - 22412,,
+M47739,X - 22475,,
+M47773,X - 22509,,
+M47784,X - 22520,,
+M48018,X - 22716,,
+M48067,X - 22764,,
+M48076,X - 22771,,
+M48080,X - 22775,,
+M48081,X - 22776,,
+M48185,X - 22834,,
+M48191,X - 22836,,
+M48207,X - 22850,,
+M48774,X - 23160,,
+M48989,X - 23291,,
+M48992,X - 23293,,
+M48993,X - 23294,,
+M48994,X - 23295,,
+M48995,X - 23296,,
+M48996,X - 23297,,
+M49014,X - 23314,,
+M49228,X - 23369,,
+M49461,X - 23585,,
+M49463,X - 23587,,
+M49466,X - 23590,,
+M49512,X - 23636,,
+M49513,X - 23637,,
+M49515,X - 23639,,
+M49517,X - 23641,,
+M49521,X - 23644,,
+M49529,X - 23652,,
+M49539,X - 23662,,
+M49546,X - 23669,,
+M49555,X - 23678,,
+M49556,X - 23679,,
+M49557,X - 23680,,
+M49583,X - 23705,,
+M49627,X - 23729,,
+M49637,X - 23739,,
+M49647,X - 23749,,
+M49663,X - 23765,,
+M49679,X - 23780,,
+M49681,X - 23782,,
+M49688,X - 23787,,
+M49689,X - 23788,,
+M52025,X - 23997,,
+M52049,X - 24020,,
+M52050,X - 24021,,
+M52052,X - 24023,,
+M52053,X - 24024,,
+M52064,X - 24035,,
+M52070,X - 24041,,
+M52078,X - 24049,,
+M52081,X - 24052,,
+M52083,X - 24054,,
+M52090,X - 24061,,
+M52126,X - 24097,,
+M52135,X - 24106,,
+M52151,X - 24122,,
+M52154,X - 24125,,
+M52238,X - 24204,,
+M52240,X - 24206,,
+M52278,X - 24240,,
+M52280,X - 24241,,
+M52286,X - 24243,,
+M52314,X - 24259,,
+M52315,X - 24260,,
+M52316,X - 24261,,
+M52318,X - 24263,,
+M52413,X - 24278,,
+M52424,X - 24286,,
+M52425,X - 24287,,
+M52297,X - 24293,,
+M52483,X - 24295,,
+M52501,X - 24306,,
+M52502,X - 24307,,
+M52504,X - 24309,,
+M52544,X - 24348,,
+M52636,X - 24422,,
+M52655,X - 24425,,
+M52661,X - 24431,,
+M52662,X - 24432,,
+M52665,X - 24435,,
+M52670,X - 24438,,
+M52671,X - 24439,,
+M52766,X - 24449,,
+M52769,X - 24452,,
+M52772,X - 24455,,
+M52788,X - 24471,,
+M52790,X - 24473,,
+M52792,X - 24475,,
+M52833,X - 24512,,
+M52834,X - 24513,,
+M52848,X - 24527,,
+M52850,X - 24529,,
+M52863,X - 24542,,
+M52865,X - 24544,,
+M52867,X - 24546,,
+M52892,X - 24571,,
+M52906,X - 24585,,
+M53003,X - 24593,,
+M53106,X - 24678,,
+M53110,X - 24682,,
+M53127,X - 24699,,
+M53146,X - 24718,,
+M53156,X - 24727,,
+M53157,X - 24728,,
+M53158,X - 24729,,
